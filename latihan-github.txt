@@ -1,2 +1,4 @@
 membuat branch
 commit to main
+merge conflict
+dua commit
