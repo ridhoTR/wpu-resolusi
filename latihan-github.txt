@@ -1,3 +1,5 @@
 membuat branch
 commit to main
-conflict github merge
+merge conflict
+dua commit
+
