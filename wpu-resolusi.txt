@@ -1,2 +1,2 @@
-WPU RESOLUSI
 membuat aplikasi
+membuat web
